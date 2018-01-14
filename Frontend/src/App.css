@@ -1,0 +1,61 @@
+.App {
+  text-align: left;
+  padding: 30px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: rgb(1,150,130);
+  height: 30px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+div 
+{
+  color: rgb(1,150,130);
+  
+}
+button
+{
+  color: rgb(1,150,130);
+  background-color: rgb(200, 209, 254);
+  font-size-adjust: inherit;
+}
+submit
+{
+  color: rgb(1,150,130);
+  background-color: rgb(200, 209, 254);
+}
+p{
+  font-style: oblique;
+  font-size: large;
+}
+
+input[type="submit"]
+{
+  color: rgb(1,150,130);
+  background-color: rgb(200, 209, 254);
+}
+
+.categ{
+  font-size: large;
+  color: black;
+}
